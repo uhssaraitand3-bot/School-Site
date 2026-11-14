@@ -1,0 +1,9 @@
+{
+  "name": "uhs-saraitand-school-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official Live Website & Principal Portal for UHS Saraitand Gurua (UDISE: 10351213003)",
+  "dependencies": {
+    "@vercel/blob": "^0.27.0"
+  }
+}
